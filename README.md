@@ -25,27 +25,19 @@
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/manohardpawale)
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/manohardpawale)
 [![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/manohardpawale)
-[![Clojure](https://img.shields.io/badge/clojure-black?style=for-the-badge&logo=clojure)](https://github.com/manohardpawale)
-[![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)](https://github.com/manohardpawale)
-[![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://github.com/manohardpawale)
-[![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/manohardpawale)
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/manohardpawale)
 
 ### ML/DL
 [![Pandas](https://img.shields.io/badge/pandas-black?style=for-the-badge&logo=pandas)](https://github.com/manohardpawale)
 [![NumPy](https://img.shields.io/badge/numpy-black?style=for-the-badge&logo=numpy)](https://github.com/manohardpawale)
-[![MLFlow](https://img.shields.io/badge/mlflow-black?style=for-the-badge&logo=numpy&logoColor=blue)](https://github.com/manohardpawale)
 [![Scikit-Learn](https://img.shields.io/badge/scikit--learn-black?style=for-the-badge&logo=scikit-learn)](https://github.com/manohardpawale)
-[![PyTorch](https://img.shields.io/badge/PyTorch-black?style=for-the-badge&logo=PyTorch)](https://github.com/manohardpawale)
 [![SciPy](https://img.shields.io/badge/SciPy-black?style=for-the-badge&logo=scipy)](https://github.com/manohardpawale)
 
 
 ### Technologies & Frameworks
-[![Django](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django)](https://github.com/manohardpawale)
-[![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/manohardpawale)
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://hub.docker.com/u/manohardpawale)
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://hub.docker.com/u/manohardpawale)
-[![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://hub.docker.com/u/manohardpawale)
+
 
 ### OS
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/manohardpawale)
@@ -54,10 +46,10 @@
 
 <details>
 <p align="center">
-  <a href="https://github.com/wervlad">
+  <a href="https://github.com/manohardpawale">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manohardpawale&theme=transparent" />
   </a>
-  <a href="https://github.com/wervlad">
+  <a href="https://github.com/manohardpawale">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=manohardpawale&hide_border=true&card_width=338&theme=transparent" />
   </a>
   <a href="https://github.com/manohardpawale">
