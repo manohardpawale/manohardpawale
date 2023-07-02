@@ -1,6 +1,15 @@
 <h1 align="center">Hi, guys! <img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋"></h1>
 
 <p align="center">
+    <b>Welcome to my page!</b><br><br>
+    <i>
+        I'm Manohar.<br>
+        Currently learning to walk in Data Analysis, Data Science, and ML/AI without falling on my bottom.<br>
+        Open to collaborating on interesting and innovative projects.<br>
+    </i>
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/manohardpawale">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
@@ -33,15 +42,6 @@
   </a>
 </p>
 
-
-<p align="center">
-    <b>Welcome to my page!</b><br><br>
-    <i>
-        I'm Manohar.<br>
-        Currently learning to walk in Data Analysis, Data Science, and ML/AI without falling on my bottom.<br>
-        Open to collaborating on interesting and innovative projects.<br>
-    </i>
-</p>
 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
