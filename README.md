@@ -33,7 +33,7 @@
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/manohardpawale)
 [![R Prorgraming](https://img.shields.io/badge/R-black?style=for-the-badge&logo=R)](https://github.com/manohardpawale)
 [![C](https://img.shields.io/badge/C-black?style=for-the-badge&logo=C)](https://github.com/manohardpawale)
-[![C++](https://img.shields.io/badge/cplusplus-black?style=for-the-badge&logo=cplusplus)](https://github.com/manohardpawale)
+[![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)](https://github.com/manohardpawale)
 [![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/manohardpawale)
 
 
