@@ -31,7 +31,7 @@
 
 ### Languages
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/manohardpawale)
-[![R Prorgraming](https://img.shields.io/badge/Rprogramming-black?style=for-the-badge&logo=R)](https://github.com/manohardpawale)
+[![R Prorgraming](https://img.shields.io/badge/R Programming-black?style=for-the-badge&logo=R)](https://github.com/manohardpawale)
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/manohardpawale)
 [![C](https://img.shields.io/badge/C-black?style=for-the-badge&logo=C)](https://github.com/manohardpawale)
 [![C++](https://img.shields.io/badge/cplusplus-black?style=for-the-badge&logo=cplusplus)](https://github.com/manohardpawale)
