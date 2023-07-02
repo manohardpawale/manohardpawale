@@ -42,49 +42,6 @@
   </a>
 </p>
 
-<table <h1 align="center">Hi, guys! <img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋"></h1>
-
-<p align="center">
-    <b>Welcome to my page!</b><br><br>
-    <i>
-        I'm Manohar.<br>
-        Currently learning to walk in Data Analysis, Data Science, and ML/AI without falling on my bottom.<br>
-        Open to collaborating on interesting and innovative projects.<br>
-    </i>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/manohardpawale">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-    <a href="https://public.tableau.com/app/profile/manohar.pawale2069">
-    <img src="https://img.shields.io/badge/Tableau-efefef.svg?style=for-the-badge&logo=Tableau" alt="Tableau">
-  </a>
-  <a href="https://www.kaggle.com/pinupawale">
-    <img src="https://img.shields.io/badge/Kaggle-CC2927.svg?style=for-the-badge&logo=Kaggle" alt="Kaggle">
-  </a>
-  <a href="https://github.com/manohardpawale">
-    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://www.hackerrank.com/manohardpawale?hr_r=1">
-    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank">
-  </a>
-  <a href="https://public.tableau.com/app/profile/manohar.pawale2069">
-    <img src="https://img.shields.io/badge/CodingNinjas-%23DF0707.svg?style=for-the-badge&logo=CodingNinjas&logoColor=white" alt="GeeksforGeeks">
-  </a>
-  <a href="https://www.kaggle.com/pinupawale">
-    <img src="https://img.shields.io/badge/CodingNinjas-%23DF0707.svg?style=for-the-badge&logo=CodingNinjas&logoColor=white" alt="Coding Ninjas">
-  </a>
-  <a href="https://github.com/manohardpawale">
-    <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white" alt="LeetCode">
-  </a>
-  <a href="https://github.com/manohardpawale">
-    <img src="https://img.shields.io/badge/InterviewBit-%230A0A0A.svg?style=for-the-badge&logo=InterviewBit&logoColor=white" alt="InterviewBit">
-  </a>
-</p>
 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -97,7 +54,7 @@
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-<img src="https://matplotlib.org/stable/_static/images/logo2.svg" alt="Matplotlib" width="150">
+<img src="https://matplotlib.org/stable/_static/images/logo2.svg" alt="Matplotlib" width="150" style="background-color: #FF0000;">
 
 ### Database
 ![MicrosoftSQLServer](https://img.shields.io/badge/MS%20SQL-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
