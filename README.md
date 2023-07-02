@@ -75,6 +75,7 @@
 </td>
 </tr>
 <tr>
+<td>
 <h3>Tools</h3>
 <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook">
 <img src="https://img.shields.io/badge/Tableau-efefef?style=for-the-badge&logo=Tableau" alt="Tableau">
@@ -82,26 +83,9 @@
 <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Microsoft Excel">
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</td>
 </tr>
 </table>
-
-
-
-
-
-
-
-<h3>Web Technologies &amp; Frameworks</h3>
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
-
-<h3>OS</h3>
-<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&
-
-
-
 
 
 ### Programming Languages
