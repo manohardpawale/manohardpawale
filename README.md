@@ -56,7 +56,7 @@
 
 
 <table>
-<tr><h3 align="center" >📈 my github stats</h3></center></tr>
+<tr><h3 align="center" >📈 My GitHub Stats</h3></center></tr>
 <tr>
 <td>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=manohardpawale&show_icons=true&theme=gotham" alt="manohardpawale" /></p>
@@ -79,4 +79,3 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
