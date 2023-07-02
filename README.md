@@ -1,6 +1,9 @@
 <h1 align="center">Hi, guys! <img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋"></h1>
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manohardpawale)
+![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)(https://www.hackerrank.com/manohardpawale?hr_r=1)
+
+
 
 <p align="center">
     <b>Welcome to my page!</b><br><br>
@@ -8,27 +11,7 @@
         I'm Manohar.<br>
         Currently learning to walk in Data Analysis, Data Science, and ML/AI without falling on my bottom.<br>
         Open to collaborating on interesting and innovative projects.<br>
-    </i><br>
-    <!-- Linkedin -->
-    <a href="https://www.linkedin.com/in/manohardpawale">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
-    </a> 
-    <!-- GitHub -->
-    <a href="https://www.linkedin.com/in/manohardpawale">
-        <img src="https://img.shields.io/badge/GitHub-blue?style=flat-square&logo=GitHub" alt="GitHub">
-    </a> 
-    <!-- Hacker Rank -->
-    <a href="https://www.linkedin.com/in/manohardpawale">
-        <img src="https://img.shields.io/badge/Hackerrank-blue?style=flat-square&logo=Hackerrank" alt="Hacker Rank">
-    </a> 
-    <!-- Keggle -->
-    <a href="https://www.linkedin.com/in/manohardpawale">
-        <img src="https://img.shields.io/badge/Keggle-blue?style=flat-square&logo=keggle" alt="Keggle">
-    </a>
-    <!-- Tableau -->
-    <a href="https://www.linkedin.com/in/manohardpawale">
-        <img src="https://img.shields.io/badge/Tableau-blue?style=flat-square&logo=Tableau" alt="Tableau">
-    </a> 
+    </i>
 </p>
 
 ### Programming Languages
