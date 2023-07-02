@@ -37,20 +37,17 @@
 [![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/manohardpawale)
 
 
-### Libraries
+### DS & ML Libraries
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-black.svg?style=for-the-badge&logo=Matplotlib&logoColor=Red)
 
 ### Database
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-
-
-[![MySQL](https://img.shields.io/badge/Mysql-black?style=for-the-badge&logo=mysql)](https://github.com/manohardpawale)
-[![MS SQL](https://img.shields.io/badge/MS%20SQL-black?style=for-the-badge&logo=Microsoft%20SQL%20Server)](https://github.com/manohardpawale)
-[![sqlite](https://img.shields.io/badge/sqlite-black?style=for-the-badge&logo=sqlite)](https://github.com/manohardpawale)
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=black)
 
 ### Web Technologies & Frameworks
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://hub.docker.com/u/manohardpawale)
