@@ -69,6 +69,11 @@
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/manohardpawale)
 
 
+📈 my github stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=manohardpawale&show_icons=true&theme=gotham" alt="manohardpawale" />
+
+
 <details>
 <p align="center">
   
