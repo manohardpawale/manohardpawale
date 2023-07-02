@@ -1,12 +1,5 @@
 <h1 align="center">Hi, guys! <img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋"></h1>
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manohardpawale)
-[![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/manohardpawale?hr_r=1)
-[![Tableau](https://img.shields.io/badge/Tableau-efefef.svg?style=for-the-badge&logo=Tableau)](https://public.tableau.com/app/profile/manohar.pawale2069)
-[![Keggle](https://img.shields.io/badge/Keggle-CC2927.svg?style=for-the-badge&logo=Keggle)](https://www.kaggle.com/pinupawale)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manohardpawale)
-
-
 <p align="center">
   <a href="https://www.linkedin.com/in/manohardpawale">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -39,7 +32,6 @@
     <img src="https://img.shields.io/badge/InterviewBit-%230A0A0A.svg?style=for-the-badge&logo=InterviewBit&logoColor=white" alt="InterviewBit">
   </a>
 </p>
-
 
 
 <p align="center">
@@ -102,16 +94,3 @@
 </td>
 </tr>
 </table>
-
-
-- 🔭 I’m currently working on ...
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
