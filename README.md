@@ -29,7 +29,7 @@
     </a> 
 </p>
 
-### Languages
+### Programming Languages
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/manohardpawale)
 [![R Prorgraming](https://img.shields.io/badge/R-black?style=for-the-badge&logo=R)](https://github.com/manohardpawale)
 [![C](https://img.shields.io/badge/C-black?style=for-the-badge&logo=C)](https://github.com/manohardpawale)
@@ -45,11 +45,9 @@
 [![MatPlotLib](https://img.shields.io/badge/matplotlib-black?style=for-the-badge&logo=matplotlib)](https://github.com/manohardpawale)
 
 ### Database
-[![SQL](https://img.shields.io/badge/Mysql-black?style=for-the-badge&logo=mysql)](https://github.com/manohardpawale)
-[![C](https://img.shields.io/badge/C-black?style=for-the-badge&logo=C)](https://github.com/manohardpawale)
-[![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/manohardpawale)
-[![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/manohardpawale)
-[![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/manohardpawale)
+[![MySQL](https://img.shields.io/badge/Mysql-black?style=for-the-badge&logo=mysql)](https://github.com/manohardpawale)
+[![MS SQL](https://img.shields.io/badge/mssql-black?style=for-the-badge&logo=mssql)](https://github.com/manohardpawale)
+[![sqlite](https://img.shields.io/badge/sqlite-black?style=for-the-badge&logo=sqlite)](https://github.com/manohardpawale)
 
 
 ### Technologies & Frameworks
