@@ -16,7 +16,6 @@
         <img src="https://img.shields.io/badge/GitHub-blue?style=flat-square&logo=GitHub" alt="GitHub">
     </a> 
     <!-- Hacker Rank -->
-	![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)
     <a href="https://www.linkedin.com/in/manohardpawale">
         <img src="https://img.shields.io/badge/Hackerrank-blue?style=flat-square&logo=Hackerrank" alt="Hacker Rank">
     </a> 
