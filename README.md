@@ -56,7 +56,7 @@
 
 
 <table>
-<tr><center><hd>📈 my github stats</hd></center></tr>
+<tr><p align="center">📈 my github stats</p></center></tr>
 <tr>
 <td>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=manohardpawale&show_icons=true&theme=gotham" alt="manohardpawale" /></p>
