@@ -28,17 +28,17 @@
   <a href="https://www.hackerrank.com/manohardpawale?hr_r=1">
     <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank">
   </a>
-  <a href="https://public.tableau.com/app/profile/manohar.pawale2069">
-    <img src="https://img.shields.io/badge/CodingNinjas-%23DF0707.svg?style=for-the-badge&logo=CodingNinjas&logoColor=white" alt="GeeksforGeeks">
-  </a>
-  <a href="https://www.kaggle.com/pinupawale">
+  <a href="https://www.codingninjas.com/studio/profile/6999d432-a720-410b-8f28-5b9847bf05f6">
     <img src="https://img.shields.io/badge/CodingNinjas-%23DF0707.svg?style=for-the-badge&logo=CodingNinjas&logoColor=white" alt="Coding Ninjas">
   </a>
-  <a href="https://github.com/manohardpawale">
+  <a href="https://auth.geeksforgeeks.org/user/manohardt1lc">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-2f8d46.svg?style=for-the-badge&logo=GeeksforGeeks&logoColor=white" alt="GeeksforGeeks">
+  </a>
+  <a href="https://leetcode.com/manohardpawale/">
     <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white" alt="LeetCode">
   </a>
-  <a href="https://github.com/manohardpawale">
-    <img src="https://img.shields.io/badge/InterviewBit-%230A0A0A.svg?style=for-the-badge&logo=InterviewBit&logoColor=white" alt="InterviewBit">
+  <a href="https://www.interviewbit.com/profile/manohar-pawale">
+    <img src="https://img.shields.io/badge/InterviewBit-0097A0.svg?style=for-the-badge&logo=InterviewBit&logoColor=white" alt="InterviewBit">
   </a>
 </p>
 
@@ -88,11 +88,29 @@
 <table>
 <tr><h3 align="center" >📈 My GitHub Stats</h3></tr>
 <tr>
-<td>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=manohardpawale&show_icons=true&theme=radical&hide_border=true" alt="manohardpawale" /></p>
-</td>
-<td>
-  <p align="center"><img src="http://github-readme-streak-stats.herokuapp.com/?user=manohardpawale&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></p>
-</td>
+    <td>
+        <p align="center"><img src="http://github-readme-streak-stats.herokuapp.com/?user=manohardpawale&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></p>
+    </td>
+	<td>    
+		<p align="center"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=manohardpawale&theme=radical"></p>
+	</td>
+</tr>
+<tr>
+	<td>
+		<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=manohardpawale&show_icons=true&theme=radical&hide_border=true" alt="manohardpawale" /></p>
+	</td>
+	<td>
+		<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=manohardpawale&show_icons=true&theme=radical&hide_border=true" alt="manohardpawale" /></p>
+	</td>
 </tr>
 </table>
+
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=manohardpawale&column=7&margin-w=15&margin-h=15&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=manohardpawale&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
