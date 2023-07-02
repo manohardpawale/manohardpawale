@@ -13,19 +13,19 @@
     </a> 
     <!-- GitHub -->
     <a href="https://www.linkedin.com/in/manohardpawale">
-        <img src="https://img.shields.io/badge/Hackerrank-blue?style=flat-square&logo=Hackerrank" alt="LinkedIn">
+        <img src="https://img.shields.io/badge/GitHub-blue?style=flat-square&logo=GitHub" alt="GitHub">
     </a> 
     <!-- Hacker Rank -->
     <a href="https://www.linkedin.com/in/manohardpawale">
-        <img src="https://img.shields.io/badge/Hackerrank-blue?style=flat-square&logo=Hackerrank" alt="LinkedIn">
+        <img src="https://img.shields.io/badge/Hackerrank-blue?style=flat-square&logo=Hackerrank" alt="Hacker Rank">
     </a> 
     <!-- Keggle -->
     <a href="https://www.linkedin.com/in/manohardpawale">
-        <img src="https://img.shields.io/badge/Hackerrank-blue?style=flat-square&logo=Hackerrank" alt="LinkedIn">
+        <img src="https://img.shields.io/badge/Keggle-blue?style=flat-square&logo=Keggle" alt="Keggle">
     </a>
     <!-- Tableau -->
     <a href="https://www.linkedin.com/in/manohardpawale">
-        <img src="https://img.shields.io/badge/Hackerrank-blue?style=flat-square&logo=Hackerrank" alt="LinkedIn">
+        <img src="https://img.shields.io/badge/Tableau-blue?style=flat-square&logo=Tableau" alt="Tableau">
     </a> 
 </p>
 
@@ -58,18 +58,23 @@
 
 <details>
 <p align="center">
+  
   <a href="https://github.com/manohardpawale">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manohardpawale&theme=transparent" />
   </a>
+  
   <a href="https://github.com/manohardpawale">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=manohardpawale&hide_border=true&card_width=338&theme=transparent" />
   </a>
+  
   <a href="https://github.com/manohardpawale">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=manohardpawale&theme=transparent" />
   </a>
+  
   <a href="https://github.com/manohardpawale">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manohardpawale&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
   </a>
+  
 </p>
 </details>
 
@@ -78,8 +83,9 @@
     <img src="https://komarev.com/ghpvc/?username=manohardpawale&color=blue&style=flat)" />
   </a>
 </p>
-<!--
 
+
+<--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
