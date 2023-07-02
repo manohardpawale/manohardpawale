@@ -7,12 +7,23 @@
         Currently learning to walk in Data Analysis, Data Science, and ML/AI without falling on my bottom.<br>
         Open to collaborating on interesting and innovative projects.<br>
     </i><br>
+    <!-- Linkedin -->
     <a href="https://www.linkedin.com/in/manohardpawale">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
     </a> 
+    <!-- GitHub -->
     <a href="https://www.linkedin.com/in/manohardpawale">
-        <img src="[https://img.shields.io/badge/Keggle-blue?](https://www.kaggle.com/static/images/favicon.ico)style=flat-square&logo=Keggle" alt="LinkedIn">
+        <img src="https://img.shields.io/badge/Hackerrank-blue?style=flat-square&logo=Hackerrank" alt="LinkedIn">
     </a> 
+    <!-- Hacker Rank -->
+    <a href="https://www.linkedin.com/in/manohardpawale">
+        <img src="https://img.shields.io/badge/Hackerrank-blue?style=flat-square&logo=Hackerrank" alt="LinkedIn">
+    </a> 
+    <!-- Keggle -->
+    <a href="https://www.linkedin.com/in/manohardpawale">
+        <img src="https://img.shields.io/badge/Hackerrank-blue?style=flat-square&logo=Hackerrank" alt="LinkedIn">
+    </a>
+    <!-- Tableau -->
     <a href="https://www.linkedin.com/in/manohardpawale">
         <img src="https://img.shields.io/badge/Hackerrank-blue?style=flat-square&logo=Hackerrank" alt="LinkedIn">
     </a> 
