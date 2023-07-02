@@ -88,17 +88,27 @@
 <table>
 <tr><h3 align="center" >📈 My GitHub Stats</h3></tr>
 <tr>
-<td>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=manohardpawale&show_icons=true&theme=radical&hide_border=true" alt="manohardpawale" /></p>
-</td>
-<td>
-  <p align="center"><img src="http://github-readme-streak-stats.herokuapp.com/?user=manohardpawale&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></p>
-</td>
+    <td>
+        <p align="center"><img src="http://github-readme-streak-stats.herokuapp.com/?user=manohardpawale&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"/></p>
+    </td>
+	<td>    
+		<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=manohardpawale&show_icons=true&theme=radical&hide_border=true" alt="manohardpawale" /></p>		
+	</td>
 </tr>
 </table>
 
+<table>
+<tr>
+<td>
+	<p align="center"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=manohardpawale&theme=radical"/></p>
+</td>
+<td>
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=manohardpawale&column=7&margin-w=15&margin-h=15&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=manohardpawale&column=5&margin-w=15&margin-h=15&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
-</div>
+</div>	
+</td>
+</tr>
+</table>
+<p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=manohardpawale&show_icons=true&theme=radical&hide_border=true" alt="activitygraph" /></p>
