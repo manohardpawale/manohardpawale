@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manohardpawale)
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/manohardpawale?hr_r=1)
-[![Tableau](https://img.shields.io/badge/Tableau-efefef.svg?style=for-the-badge&logo=Tableau&logoColor=white)](https://public.tableau.com/app/profile/manohar.pawale2069)
+[![Tableau](https://img.shields.io/badge/Tableau-efefef.svg?style=for-the-badge&logo=Tableau)](https://public.tableau.com/app/profile/manohar.pawale2069)
 
 
 <p align="center">
