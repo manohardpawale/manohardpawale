@@ -69,9 +69,7 @@
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/manohardpawale)
 
 
-📈 my github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=manohardpawale&show_icons=true&theme=gotham" alt="manohardpawale" />
 
 
 <!--
@@ -81,11 +79,23 @@
   </a>
 </p>
 -->
-- 🔭 I’m currently working on ...
+<table>
+<tr>
+<td>
+📈 my github stats
 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=manohardpawale&show_icons=true&theme=gotham" alt="manohardpawale" />
+</td>
+<td>
 ![light](https://raw.githubusercontent.com/tw93/tw93/master/images/wakatime_weekly_language_stats.svg#gh-light-mode-only)
 
 ![dark](https://raw.githubusercontent.com/tw93/tw93/master/images/wakatime_weekly_language_stats_black.svg#gh-dark-mode-only)
+</td>
+</tr>
+</table>
+- 🔭 I’m currently working on ...
+
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
