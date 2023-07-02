@@ -44,10 +44,12 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
 ### Database
+
+
+
 [![MySQL](https://img.shields.io/badge/Mysql-black?style=for-the-badge&logo=mysql)](https://github.com/manohardpawale)
 [![MS SQL](https://img.shields.io/badge/MS%20SQL-black?style=for-the-badge&logo=Microsoft%20SQL%20Server)](https://github.com/manohardpawale)
 [![sqlite](https://img.shields.io/badge/sqlite-black?style=for-the-badge&logo=sqlite)](https://github.com/manohardpawale)
-
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=black)
 
 ### Web Technologies & Frameworks
