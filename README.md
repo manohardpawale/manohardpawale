@@ -39,10 +39,10 @@
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/manohardpawale)
 
 ### Libraries
-[![Pandas](https://img.shields.io/badge/pandas-black?style=for-the-badge&logo=pandas)](https://github.com/manohardpawale)
-[![NumPy](https://img.shields.io/badge/numpy-black?style=for-the-badge&logo=numpy)](https://github.com/manohardpawale)
-[![SciPy](https://img.shields.io/badge/SciPy-black?style=for-the-badge&logo=scipy)](https://github.com/manohardpawale)
-[![MatPlotLib](https://img.shields.io/badge/matplotlib-black?style=for-the-badge&logo=matplotlib)](https://github.com/manohardpawale)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
 ### Database
 [![MySQL](https://img.shields.io/badge/Mysql-black?style=for-the-badge&logo=mysql)](https://github.com/manohardpawale)
