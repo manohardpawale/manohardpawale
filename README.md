@@ -36,7 +36,7 @@
 [![C](https://img.shields.io/badge/C-black?style=for-the-badge&logo=C)](https://github.com/manohardpawale)
 [![C++](https://img.shields.io/badge/cplusplus-black?style=for-the-badge&logo=cplusplus)](https://github.com/manohardpawale)
 [![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/manohardpawale)
-[![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html)](https://github.com/manohardpawale)
+[![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/manohardpawale)
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/manohardpawale)
 
 ### ML/DL
