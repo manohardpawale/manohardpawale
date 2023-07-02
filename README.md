@@ -1,5 +1,9 @@
 <h1 align="center">Hi, guys! <img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋"></h1>
 
+<div>
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+</div>
+
 <p align="center">
     <b>Welcome to my page!</b><br><br>
     <i>
@@ -30,6 +34,10 @@
 </p>
 
 ### Programming Languages
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+
+
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/manohardpawale)
 [![R Prorgraming](https://img.shields.io/badge/R-black?style=for-the-badge&logo=R)](https://github.com/manohardpawale)
 [![C](https://img.shields.io/badge/C-black?style=for-the-badge&logo=C)](https://github.com/manohardpawale)
