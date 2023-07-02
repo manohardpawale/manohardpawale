@@ -22,7 +22,7 @@
 [![Pandas](https://img.shields.io/badge/pandas-black?style=for-the-badge&logo=pandas)](https://github.com/manohardpawale)
 [![NumPy](https://img.shields.io/badge/numpy-black?style=for-the-badge&logo=numpy)](https://github.com/manohardpawale)
 [![Scikit-Learn](https://img.shields.io/badge/scikit--learn-black?style=for-the-badge&logo=scikit-learn)](https://github.com/manohardpawale)
-[![SciPy](https://img.shields.io/badge/SciPy-black?style=for-the-badge&logo=scipy)]
+[![SciPy](https://img.shields.io/badge/SciPy-black?style=for-the-badge&logo=scipy)](https://github.com/manohardpawale)
 
 
 ### Technologies & Frameworks
