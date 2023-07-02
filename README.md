@@ -42,7 +42,7 @@
   </a>
 </p>
 
-<table style="margin-left:auto; margin-right:auto; text-align:center;">
+<table>
 	<tr>
 		<td>
 		<h3>Programming Languages</h3>
