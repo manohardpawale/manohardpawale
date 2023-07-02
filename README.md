@@ -11,7 +11,7 @@
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
     </a> 
     <a href="https://www.linkedin.com/in/manohardpawale">
-        <img src="https://img.shields.io/badge/Keggle-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
+        <img src="https://img.shields.io/badge/Keggle-blue?style=flat-square&logo=Keggle" alt="LinkedIn">
     </a> 
     <a href="https://www.linkedin.com/in/manohardpawale">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
