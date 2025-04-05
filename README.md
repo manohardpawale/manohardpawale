@@ -6,7 +6,6 @@
         I'm Prof. Manohar Pawale.<br>
         Currently working as an Assistant Professor for the MBA program at Adhalrao Patil Institute of Management and Research, Pune.<br>
         Open to collaborating on interesting and innovative projects in startups, business development, and business problem-solving.<br>
-
     </i>
 </p>
 
