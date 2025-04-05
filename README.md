@@ -3,9 +3,10 @@
 <p align="center">
     <b>Welcome to my page!</b><br><br>
     <i>
-        I'm Manohar.<br>
-        Currently learning to walk in Data Analysis, Data Science, and ML/AI without falling on my bottom.<br>
-        Open to collaborating on interesting and innovative projects.<br>
+        I'm Prof. Manohar Pawale.<br>
+        Currently working as an Assistant Professor for the MBA program at Adhalrao Patil Institute of Management and Research, Pune.<br>
+        Open to collaborating on interesting and innovative projects in startups, business development, and business problem-solving.<br>
+
     </i>
 </p>
 
@@ -24,63 +25,26 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://www.hackerrank.com/manohardpawale?hr_r=1">
-    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank">
-  </a>
-  <a href="https://www.codingninjas.com/studio/profile/6999d432-a720-410b-8f28-5b9847bf05f6">
-    <img src="https://img.shields.io/badge/CodingNinjas-%23DF0707.svg?style=for-the-badge&logo=CodingNinjas&logoColor=white" alt="Coding Ninjas">
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/manohardt1lc">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-2f8d46.svg?style=for-the-badge&logo=GeeksforGeeks&logoColor=white" alt="GeeksforGeeks">
-  </a>
-  <a href="https://leetcode.com/manohardpawale/">
-    <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white" alt="LeetCode">
-  </a>
-  <a href="https://www.interviewbit.com/profile/manohar-pawale">
-    <img src="https://img.shields.io/badge/InterviewBit-0097A0.svg?style=for-the-badge&logo=InterviewBit&logoColor=white" alt="InterviewBit">
-  </a>
-</p>
-
 ---
-<h3 align="center" >🎓 Skills</h3>
+<h3 align="center">🎓 Skills</h3>
 
 <p align="center">
-    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
-    <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" alt="R">
-    <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C">
-    <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
-    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+    <img src="https://img.shields.io/badge/Research-%234285F4.svg?style=for-the-badge&logo=academia&logoColor=white" alt="Research">
+    <img src="https://img.shields.io/badge/Teaching-%23E34F26.svg?style=for-the-badge&logo=google-classroom&logoColor=white" alt="Teaching">
+    <img src="https://img.shields.io/badge/Public_Speaking-%23FF6F00.svg?style=for-the-badge&logo=slides&logoColor=white" alt="Public Speaking">
 </p>
 
 <p align="center">
-    <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
-    <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy">
-    <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
-    <img src="https://img.shields.io/badge/Matplotlib-black.svg?style=for-the-badge&logo=Matplotlib&logoColor=Red" alt="Matplotlib">
+    <img src="https://img.shields.io/badge/Strategic_Planning-%2300A8E8.svg?style=for-the-badge&logo=target&logoColor=white" alt="Strategic Planning">
+    <img src="https://img.shields.io/badge/Business_Consulting-%232C3E50.svg?style=for-the-badge&logo=briefcase&logoColor=white" alt="Business Consulting">
+    <img src="https://img.shields.io/badge/Report_Writing-%23A97142.svg?style=for-the-badge&logo=google-docs&logoColor=white" alt="Report Writing">
 </p>
 
 <p align="center">
-    <img src="https://img.shields.io/badge/MS%20SQL-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="Microsoft SQL Server">
-    <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-    <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
-</p>
-
-<p align="center">
-    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
-</p>
-
-<p align="center">
-    <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook">
+    <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel">
+    <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
     <img src="https://img.shields.io/badge/Tableau-efefef?style=for-the-badge&logo=Tableau" alt="Tableau">
-    <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power Bi">
-    <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Microsoft Excel">
-    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+    <img src="https://img.shields.io/badge/Data_Analytics-%234285F4.svg?style=for-the-badge&logo=google-analytics&logoColor=white" alt="Data Analytics">
 </p>
 
 ---
